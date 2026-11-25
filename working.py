@@ -49,7 +49,7 @@ def run(**kwargs):
     if kwargs.get("run_oomp", False):
         import working_oomp
         oomp_kwargs = copy.deepcopy(kwargs_2)
-        if kwargs.get("run_solidcraft", False):
+        if kwargs.get("run_solidcraft", False) or kwargs.get("run_scad", False):
             oomp_kwargs["wait_for_completion"] = True
         working_oomp.main(**oomp_kwargs)
 

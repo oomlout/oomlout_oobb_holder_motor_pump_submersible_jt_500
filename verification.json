@@ -1,0 +1,22 @@
+{
+  "top": {
+    "open_width_mm": 28,
+    "tab_height_mm": 14,
+    "volume_mm3": 48675.41592887932,
+    "print_bounds_mm": [
+      [
+        -28.5,
+        -92.0,
+        0.0
+      ],
+      [
+        28.5,
+        0.0,
+        44.0
+      ]
+    ],
+    "minimum_contact_per_tongue_mm2": 20.873866864728676,
+    "bed_contact_mm2": 1193.1302613601629,
+    "retention_upward_overlap_mm3": 157.03656477558027
+  }
+}

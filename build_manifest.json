@@ -1,0 +1,15 @@
+{
+  "source_sha256": {
+    "working_scad.py": "b4f10a5fa463f72a6bb40971a866705446d6ffa1a1406c43fc60f28fb955df6e",
+    "working_oomp_populate.py": "8db0563003814f0440b70cacc05ff37c7d3a1480654a86fa68abf8edc6e18446",
+    "source_file/pump_reference.stl": "4c93650bd4c8f0e9f691f2c895e2c6fe59c4664f8a3fa50769a72f15f043a404"
+  },
+  "parts": [
+    {
+      "folder": "parts/oobb_holder_motor_pump_submersible_jt_500",
+      "piece": "all",
+      "screw_length_mm": 16,
+      "sha256": "911cef104122cff9ce1a2a2519671477aca0ea67eda925940e55fa1f2db93233"
+    }
+  ]
+}

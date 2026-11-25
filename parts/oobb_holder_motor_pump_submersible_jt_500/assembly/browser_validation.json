@@ -1,0 +1,18 @@
+{
+  "status": "passed",
+  "browser": "Edge Chromium headless",
+  "offline": true,
+  "checks": [
+    "start at steps 1-4",
+    "page navigation",
+    "A4 landscape print",
+    "zoom and pan",
+    "hardware links",
+    "fullscreen",
+    "endpoints",
+    "pointer swipe",
+    "390px mobile layout",
+    "README images at desktop/mobile"
+  ],
+  "page_errors": []
+}

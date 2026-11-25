@@ -1,0 +1,47 @@
+{
+  "status": "passed",
+  "page_count": 8,
+  "card_count": 7,
+  "paper_mm": [
+    297,
+    210
+  ],
+  "panels_per_instruction_page": 4,
+  "page_roles": [
+    "cover",
+    "details",
+    "instructions",
+    "instructions",
+    "summary",
+    "spacer",
+    "parts",
+    "back"
+  ],
+  "parts_summary_page": 7,
+  "printed_parts_in_summary": 3,
+  "hardware_items_in_summary": 19,
+  "summary_step": 7,
+  "page_order": "Reader order; signature padded. Apply booklet imposition only at print time.",
+  "physical_items": 22,
+  "quantity_audit": "Every physical item introduced once; singleton multipliers hidden; printed and hardware summary reconciled to production inventory; identical hardware roles combined",
+  "layout_checks": "Text fits; only black typography; compact URL code/prefix hierarchy; no instruction prose or arrows; blank spacer has no marks",
+  "physical_validation": "Not physically assembled or load tested",
+  "pdf_sha256": "91fcf10a16c827c5f102be31ac3e89fc93a25b6f4e1173c523e6c2d0d52b8407",
+  "html_sha256": "ee7c01fc52f8fa400ac0628c8aa32d6577810c9e115c778f91639b4989600acb",
+  "html_slides": 8,
+  "html_steps": 6,
+  "html_self_contained": true,
+  "html_layout": "a4-landscape-four-step",
+  "html_instruction_page_steps": [
+    [
+      1,
+      2,
+      3,
+      4
+    ],
+    [
+      5,
+      6
+    ]
+  ]
+}

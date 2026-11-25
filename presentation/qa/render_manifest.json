@@ -1,0 +1,99 @@
+{
+  "blender_version": "5.2.2 LTS",
+  "device": "GPU",
+  "source_hashes": {
+    "parts/oobb_holder_motor_pump_submersible_jt_500/render/mesh_cache/base.stl": "829c03c0316befe6ea85130650b2b98fb5f60b9db4ff4934a91d401cc918aa59",
+    "source_file/pump_reference.stl": "4c93650bd4c8f0e9f691f2c895e2c6fe59c4664f8a3fa50769a72f15f043a404",
+    "parts/oobb_holder_motor_pump_submersible_jt_500/render/mesh_cache/lid.stl": "34caf57d0aad51b7586c1a2d126ac35c3155d3e543e63b112dd7bf80df8f006d",
+    "parts/oobb_holder_motor_pump_submersible_jt_500/render/mesh_cache/top.stl": "ea58a7bb1de54b3380e8612c039ac4b6eb7af99cbad3933f0722ad9e690b9f28"
+  },
+  "renders": [
+    {
+      "scene": "holder_assembled",
+      "output": "C:\\gh\\oomlout_oobb_holder_motor_pump_submersible_jt_500\\parts\\oobb_holder_motor_pump_submersible_jt_500\\render_studio.png",
+      "objects": [
+        "Base",
+        "Two-wall holder",
+        "Nut cover"
+      ],
+      "instances": [
+        "Base",
+        "Two-wall holder",
+        "Nut cover"
+      ],
+      "camera_scale": 1.7184020662918464
+    },
+    {
+      "scene": "holder_base_retainer",
+      "output": "C:\\gh\\oomlout_oobb_holder_motor_pump_submersible_jt_500\\parts\\oobb_holder_motor_pump_submersible_jt_500\\render_retainer.png",
+      "objects": [
+        "Base retaining tongues"
+      ],
+      "instances": [
+        "Base retaining tongues"
+      ],
+      "camera_scale": 1.2605410419464078
+    },
+    {
+      "scene": "holder_with_pump",
+      "output": "C:\\gh\\oomlout_oobb_holder_motor_pump_submersible_jt_500\\parts\\oobb_holder_motor_pump_submersible_jt_500\\render_with_pump.png",
+      "objects": [
+        "Base.001",
+        "Two-wall holder.001",
+        "Nut cover.001",
+        "Pump"
+      ],
+      "instances": [
+        "Base",
+        "Two-wall holder",
+        "Nut cover",
+        "Pump"
+      ],
+      "camera_scale": 1.7184020662918464
+    },
+    {
+      "scene": "holder_side_print",
+      "output": "C:\\gh\\oomlout_oobb_holder_motor_pump_submersible_jt_500\\parts\\oobb_holder_motor_pump_submersible_jt_500\\render_side_print.png",
+      "objects": [
+        "Top - print position"
+      ],
+      "instances": [
+        "Top - print position"
+      ],
+      "camera_scale": 1.2897628206654803
+    },
+    {
+      "scene": "holder_exploded",
+      "output": "C:\\gh\\oomlout_oobb_holder_motor_pump_submersible_jt_500\\parts\\oobb_holder_motor_pump_submersible_jt_500\\render_exploded.png",
+      "objects": [
+        "Base.002",
+        "Pump.001",
+        "Two-wall holder.002",
+        "Nut cover.002"
+      ],
+      "instances": [
+        "Base",
+        "Pump",
+        "Two-wall holder",
+        "Nut cover"
+      ],
+      "camera_scale": 4.13199299341587
+    },
+    {
+      "scene": "holder_nut_detail",
+      "output": "C:\\gh\\oomlout_oobb_holder_motor_pump_submersible_jt_500\\parts\\oobb_holder_motor_pump_submersible_jt_500\\render_nut_detail.png",
+      "objects": [
+        "Base.003",
+        "Two-wall holder.003",
+        "Nut cover.003"
+      ],
+      "instances": [
+        "Base",
+        "Two-wall holder",
+        "Nut cover"
+      ],
+      "camera_scale": 0.55
+    }
+  ],
+  "scene_file": "C:\\gh\\oomlout_oobb_holder_motor_pump_submersible_jt_500\\presentation\\scenes\\jt500_holder.blend"
+}

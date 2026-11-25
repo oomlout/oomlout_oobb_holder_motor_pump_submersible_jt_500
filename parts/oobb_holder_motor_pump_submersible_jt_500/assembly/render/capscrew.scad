@@ -1,0 +1,1 @@
+$fn=64; difference() { union() { cylinder(h=1.7,r1=3,r2=1.5); translate([0,0,1.7]) cylinder(h=16-1.7,r=1.5); } translate([0,0,-0.01]) cylinder(h=1.21,r=2/sqrt(3),$fn=6); }

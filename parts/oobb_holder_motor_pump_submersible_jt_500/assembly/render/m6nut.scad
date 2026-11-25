@@ -1,0 +1,1 @@
+$fn=64; difference() { cylinder(h=5,r=5.77,$fn=6); translate([0,0,-.01]) cylinder(h=5.02,r=3); }

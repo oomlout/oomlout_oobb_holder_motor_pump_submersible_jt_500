@@ -1,0 +1,151 @@
+{
+  "root": "C:\\gh\\oomlout_oobb_holder_motor_pump_submersible_jt_500",
+  "base": "C:\\gh\\oomlout_oobb_holder_motor_pump_submersible_jt_500\\parts\\oobb_holder_motor_pump_submersible_jt_500\\render\\mesh_cache\\base.stl",
+  "base_folder": "C:\\gh\\oomlout_oobb_holder_motor_pump_submersible_jt_500\\parts\\oobb_holder_motor_pump_submersible_jt_500",
+  "lid": "C:\\gh\\oomlout_oobb_holder_motor_pump_submersible_jt_500\\parts\\oobb_holder_motor_pump_submersible_jt_500\\render\\mesh_cache\\lid.stl",
+  "pump": "C:\\gh\\oomlout_oobb_holder_motor_pump_submersible_jt_500\\source_file\\pump_reference.stl",
+  "scene_file": "C:\\gh\\oomlout_oobb_holder_motor_pump_submersible_jt_500\\presentation\\scenes\\jt500_holder.blend",
+  "samples": 40,
+  "resolution": 1100,
+  "holders": [
+    {
+      "details": {
+        "attachment_nuts": [
+          {
+            "pos": [
+              -15,
+              -15
+            ],
+            "radius_name": "m6"
+          },
+          {
+            "pos": [
+              -15,
+              0
+            ],
+            "radius_name": "m6"
+          },
+          {
+            "pos": [
+              -15,
+              15
+            ],
+            "radius_name": "m6"
+          },
+          {
+            "pos": [
+              15,
+              -15
+            ],
+            "radius_name": "m6"
+          },
+          {
+            "pos": [
+              15,
+              0
+            ],
+            "radius_name": "m6"
+          },
+          {
+            "pos": [
+              15,
+              15
+            ],
+            "radius_name": "m6"
+          }
+        ],
+        "axial_clearance": 0,
+        "base_foot_height": 2.7,
+        "base_window_clearance": 1,
+        "clamp_corner_radius": 5,
+        "corner_clearance_diameter": 15,
+        "depth": 6,
+        "dimension_note": "Main envelope and 5.7 mm rear projection are dimensioned. Port centres, fin footprints and body profile are approximate; physically check fit before final printing.",
+        "dimension_source": "source_file/pump_dimension_reference.png",
+        "foot_pitch": 60,
+        "foot_radius": 4,
+        "foot_size": 12,
+        "height": 5,
+        "lid_depth": 3,
+        "lid_mount_positions": [
+          [
+            -16.5,
+            7.5
+          ],
+          [
+            16.5,
+            -7.5
+          ]
+        ],
+        "lid_nut_bottom": 2,
+        "lid_screw_length": 16,
+        "mount_x": 22.5,
+        "mount_y": 7.5,
+        "name": "JT-500 two-wall holder - complete print set",
+        "nut_height_from_foot": 6,
+        "omit_covered_base_holes": true,
+        "oobb_name": "holder_motor_pump_submersible_jt_500",
+        "oobb_type": "holder_motor_pump_submersible_jt_500",
+        "open_width": 28,
+        "outlet_clearance_diameter": 15.5,
+        "overhang": true,
+        "piece": "all",
+        "prepare_print": true,
+        "print_gap": 10,
+        "pump_body_height": 38.33,
+        "pump_body_length": 79.0,
+        "pump_body_width": 33.43,
+        "pump_fin_projection": 5.7,
+        "pump_offset_y": 15,
+        "pump_outlet_diameter": 11.9,
+        "pump_outlet_projection": 21.2,
+        "pump_outlet_xy": [
+          0,
+          9
+        ],
+        "pump_outline_clearance": 3,
+        "pump_rotation_z": 0,
+        "pump_wire_xy": [
+          0,
+          -9
+        ],
+        "retainer_relief_diameter": 16,
+        "retainer_span": 40,
+        "retainer_width": 4,
+        "run_scad": true,
+        "run_solidcraft": "working_scad",
+        "screw_length": 16,
+        "screw_radius_name": "m3",
+        "screw_tip_clearance": 2,
+        "side_print_relief": false,
+        "tab_corner_radius": 1,
+        "tab_height": 14,
+        "tab_inner_x": 18,
+        "tab_outer_x": 28.5,
+        "taxonomy_1": "oobb",
+        "taxonomy_2": "holder_motor_pump_submersible_jt_500",
+        "taxonomy_3": "",
+        "top_depth": 13,
+        "top_height": 3,
+        "top_width": 3,
+        "width": 5,
+        "wire_clearance_diameter": 15.5
+      },
+      "mesh": "C:\\gh\\oomlout_oobb_holder_motor_pump_submersible_jt_500\\parts\\oobb_holder_motor_pump_submersible_jt_500\\render\\mesh_cache\\top.stl",
+      "top_folder": "C:\\gh\\oomlout_oobb_holder_motor_pump_submersible_jt_500\\parts\\oobb_holder_motor_pump_submersible_jt_500",
+      "assembly_folder": "C:\\gh\\oomlout_oobb_holder_motor_pump_submersible_jt_500\\parts\\oobb_holder_motor_pump_submersible_jt_500"
+    }
+  ],
+  "source_hashes": {
+    "parts/oobb_holder_motor_pump_submersible_jt_500/render/mesh_cache/base.stl": "829c03c0316befe6ea85130650b2b98fb5f60b9db4ff4934a91d401cc918aa59",
+    "source_file/pump_reference.stl": "4c93650bd4c8f0e9f691f2c895e2c6fe59c4664f8a3fa50769a72f15f043a404",
+    "parts/oobb_holder_motor_pump_submersible_jt_500/render/mesh_cache/lid.stl": "34caf57d0aad51b7586c1a2d126ac35c3155d3e543e63b112dd7bf80df8f006d",
+    "parts/oobb_holder_motor_pump_submersible_jt_500/render/mesh_cache/top.stl": "ea58a7bb1de54b3380e8612c039ac4b6eb7af99cbad3933f0722ad9e690b9f28"
+  },
+  "palette": {
+    "primary": "00B1B7",
+    "secondary": "121212",
+    "marker": "FEC601"
+  },
+  "style_source": "C:/gh/oomlout_oobb_version_5/RENDER_STYLE.md"
+}

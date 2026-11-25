@@ -1,0 +1,372 @@
+{
+  "source_hashes": {
+    "working_oomp_populate.py": "8db0563003814f0440b70cacc05ff37c7d3a1480654a86fa68abf8edc6e18446",
+    "working_scad.py": "b4f10a5fa463f72a6bb40971a866705446d6ffa1a1406c43fc60f28fb955df6e",
+    "working_documentation.py": "6d721d2f5e5e600af22e18356f8d70dbadf6118c265fcc6aad32b33c4e72a26c",
+    "components/instructions/render.py": "525e65308a242ab1059f7e13a0390adf6f474086b5c2108b154f7018c7824817",
+    "components/presentation/blender_scene.py": "1e48ce35b78094aea56f1006ec4f6b05a6fd4edcc992646cfebc9b425126c5d5",
+    "source_file/oomlout_logo_unshaded_original.svg": "72918ba326599a1e6ae495ae4cabb51cc7a462035d35ee30de984229e30d9d67",
+    "parts/oobb_holder_motor_pump_submersible_jt_500/3dpr.stl": "911cef104122cff9ce1a2a2519671477aca0ea67eda925940e55fa1f2db93233",
+    "parts/oobb_holder_motor_pump_submersible_jt_500/render/mesh_cache/base.stl": "829c03c0316befe6ea85130650b2b98fb5f60b9db4ff4934a91d401cc918aa59",
+    "parts/oobb_holder_motor_pump_submersible_jt_500/render/mesh_cache/top.stl": "ea58a7bb1de54b3380e8612c039ac4b6eb7af99cbad3933f0722ad9e690b9f28",
+    "parts/oobb_holder_motor_pump_submersible_jt_500/render/mesh_cache/lid.stl": "34caf57d0aad51b7586c1a2d126ac35c3155d3e543e63b112dd7bf80df8f006d",
+    "source_file/pump_reference.stl": "4c93650bd4c8f0e9f691f2c895e2c6fe59c4664f8a3fa50769a72f15f043a404"
+  },
+  "renders": [
+    {
+      "scene": "step_01",
+      "output": "C:\\gh\\oomlout_oobb_holder_motor_pump_submersible_jt_500\\parts\\oobb_holder_motor_pump_submersible_jt_500\\assembly\\render\\raw\\step_01.png",
+      "objects": [
+        "base"
+      ],
+      "instances": [
+        "base"
+      ],
+      "camera_scale": 1.2543791648864682
+    },
+    {
+      "scene": "step_02",
+      "output": "C:\\gh\\oomlout_oobb_holder_motor_pump_submersible_jt_500\\parts\\oobb_holder_motor_pump_submersible_jt_500\\assembly\\render\\raw\\step_02.png",
+      "objects": [
+        "base.001",
+        "pump"
+      ],
+      "instances": [
+        "base",
+        "pump"
+      ],
+      "camera_scale": 1.91976542966966
+    },
+    {
+      "scene": "step_03",
+      "output": "C:\\gh\\oomlout_oobb_holder_motor_pump_submersible_jt_500\\parts\\oobb_holder_motor_pump_submersible_jt_500\\assembly\\render\\raw\\step_03.png",
+      "objects": [
+        "base.002",
+        "pump.001",
+        "top",
+        "nut_1",
+        "nut_2",
+        "nut_3",
+        "nut_4"
+      ],
+      "instances": [
+        "base",
+        "pump",
+        "top",
+        "nut_1",
+        "nut_2",
+        "nut_3",
+        "nut_4"
+      ],
+      "camera_scale": 2.1059952248871743
+    },
+    {
+      "scene": "step_04",
+      "output": "C:\\gh\\oomlout_oobb_holder_motor_pump_submersible_jt_500\\parts\\oobb_holder_motor_pump_submersible_jt_500\\assembly\\render\\raw\\step_04.png",
+      "objects": [
+        "base.003",
+        "pump.002",
+        "top.001",
+        "nut_1.001",
+        "nut_2.001",
+        "nut_3.001",
+        "nut_4.001",
+        "screw_1",
+        "screw_2",
+        "screw_3",
+        "screw_4"
+      ],
+      "instances": [
+        "base",
+        "pump",
+        "top",
+        "nut_1",
+        "nut_2",
+        "nut_3",
+        "nut_4",
+        "screw_1",
+        "screw_2",
+        "screw_3",
+        "screw_4"
+      ],
+      "camera_scale": 1.7282876920700074
+    },
+    {
+      "scene": "step_05",
+      "output": "C:\\gh\\oomlout_oobb_holder_motor_pump_submersible_jt_500\\parts\\oobb_holder_motor_pump_submersible_jt_500\\assembly\\render\\raw\\step_05.png",
+      "objects": [
+        "base.004",
+        "pump.003",
+        "top.002",
+        "nut_1.002",
+        "nut_2.002",
+        "nut_3.002",
+        "nut_4.002",
+        "screw_1.001",
+        "screw_2.001",
+        "screw_3.001",
+        "screw_4.001",
+        "m6nut_1",
+        "m6nut_2",
+        "m6nut_3",
+        "m6nut_4",
+        "m6nut_5",
+        "m6nut_6",
+        "m3nut_1",
+        "m3nut_2"
+      ],
+      "instances": [
+        "base",
+        "pump",
+        "top",
+        "nut_1",
+        "nut_2",
+        "nut_3",
+        "nut_4",
+        "screw_1",
+        "screw_2",
+        "screw_3",
+        "screw_4",
+        "m6nut_1",
+        "m6nut_2",
+        "m6nut_3",
+        "m6nut_4",
+        "m6nut_5",
+        "m6nut_6",
+        "m3nut_1",
+        "m3nut_2"
+      ],
+      "camera_scale": 1.821271916286969
+    },
+    {
+      "scene": "step_06",
+      "output": "C:\\gh\\oomlout_oobb_holder_motor_pump_submersible_jt_500\\parts\\oobb_holder_motor_pump_submersible_jt_500\\assembly\\render\\raw\\step_06.png",
+      "objects": [
+        "base.005",
+        "pump.004",
+        "top.003",
+        "nut_1.003",
+        "nut_2.003",
+        "nut_3.003",
+        "nut_4.003",
+        "screw_1.002",
+        "screw_2.002",
+        "screw_3.002",
+        "screw_4.002",
+        "m6nut_1.001",
+        "m6nut_2.001",
+        "m6nut_3.001",
+        "m6nut_4.001",
+        "m6nut_5.001",
+        "m6nut_6.001",
+        "m3nut_1.001",
+        "m3nut_2.001",
+        "lid",
+        "capscrew_1",
+        "capscrew_2"
+      ],
+      "instances": [
+        "base",
+        "pump",
+        "top",
+        "nut_1",
+        "nut_2",
+        "nut_3",
+        "nut_4",
+        "screw_1",
+        "screw_2",
+        "screw_3",
+        "screw_4",
+        "m6nut_1",
+        "m6nut_2",
+        "m6nut_3",
+        "m6nut_4",
+        "m6nut_5",
+        "m6nut_6",
+        "m3nut_1",
+        "m3nut_2",
+        "lid",
+        "capscrew_1",
+        "capscrew_2"
+      ],
+      "camera_scale": 2.0020068081784483
+    },
+    {
+      "scene": "book_cover",
+      "output": "C:\\gh\\oomlout_oobb_holder_motor_pump_submersible_jt_500\\parts\\oobb_holder_motor_pump_submersible_jt_500\\assembly\\render\\raw\\book_cover.png",
+      "objects": [
+        "base.006",
+        "pump.005",
+        "top.004",
+        "nut_1.004",
+        "nut_2.004",
+        "nut_3.004",
+        "nut_4.004",
+        "screw_1.003",
+        "screw_2.003",
+        "screw_3.003",
+        "screw_4.003",
+        "m6nut_1.002",
+        "m6nut_2.002",
+        "m6nut_3.002",
+        "m6nut_4.002",
+        "m6nut_5.002",
+        "m6nut_6.002",
+        "m3nut_1.002",
+        "m3nut_2.002",
+        "lid.001",
+        "capscrew_1.001",
+        "capscrew_2.001"
+      ],
+      "instances": [
+        "base",
+        "pump",
+        "top",
+        "nut_1",
+        "nut_2",
+        "nut_3",
+        "nut_4",
+        "screw_1",
+        "screw_2",
+        "screw_3",
+        "screw_4",
+        "m6nut_1",
+        "m6nut_2",
+        "m6nut_3",
+        "m6nut_4",
+        "m6nut_5",
+        "m6nut_6",
+        "m3nut_1",
+        "m3nut_2",
+        "lid",
+        "capscrew_1",
+        "capscrew_2"
+      ],
+      "camera_scale": 1.7107447518647132
+    },
+    {
+      "scene": "part_base",
+      "output": "C:\\gh\\oomlout_oobb_holder_motor_pump_submersible_jt_500\\parts\\oobb_holder_motor_pump_submersible_jt_500\\assembly\\render\\raw\\part_base.png",
+      "objects": [
+        "base.007"
+      ],
+      "instances": [
+        "base"
+      ],
+      "camera_scale": 1.2652274772643979
+    },
+    {
+      "scene": "part_top",
+      "output": "C:\\gh\\oomlout_oobb_holder_motor_pump_submersible_jt_500\\parts\\oobb_holder_motor_pump_submersible_jt_500\\assembly\\render\\raw\\part_top.png",
+      "objects": [
+        "top.005"
+      ],
+      "instances": [
+        "top"
+      ],
+      "camera_scale": 1.4068600395321846
+    },
+    {
+      "scene": "part_lid",
+      "output": "C:\\gh\\oomlout_oobb_holder_motor_pump_submersible_jt_500\\parts\\oobb_holder_motor_pump_submersible_jt_500\\assembly\\render\\raw\\part_lid.png",
+      "objects": [
+        "lid.002"
+      ],
+      "instances": [
+        "lid"
+      ],
+      "camera_scale": 0.72216952667236
+    },
+    {
+      "scene": "part_pump",
+      "output": "C:\\gh\\oomlout_oobb_holder_motor_pump_submersible_jt_500\\parts\\oobb_holder_motor_pump_submersible_jt_500\\assembly\\render\\raw\\part_pump.png",
+      "objects": [
+        "pump.006"
+      ],
+      "instances": [
+        "pump"
+      ],
+      "camera_scale": 1.3108175420761108
+    },
+    {
+      "scene": "part_screw",
+      "output": "C:\\gh\\oomlout_oobb_holder_motor_pump_submersible_jt_500\\parts\\oobb_holder_motor_pump_submersible_jt_500\\assembly\\render\\raw\\part_screw.png",
+      "objects": [
+        "screw"
+      ],
+      "instances": [
+        "screw"
+      ],
+      "camera_scale": 0.20370445609092713
+    },
+    {
+      "scene": "part_nut",
+      "output": "C:\\gh\\oomlout_oobb_holder_motor_pump_submersible_jt_500\\parts\\oobb_holder_motor_pump_submersible_jt_500\\assembly\\render\\raw\\part_nut.png",
+      "objects": [
+        "nut"
+      ],
+      "instances": [
+        "nut"
+      ],
+      "camera_scale": 0.07852099704742414
+    },
+    {
+      "scene": "part_m6nut",
+      "output": "C:\\gh\\oomlout_oobb_holder_motor_pump_submersible_jt_500\\parts\\oobb_holder_motor_pump_submersible_jt_500\\assembly\\render\\raw\\part_m6nut.png",
+      "objects": [
+        "m6nut"
+      ],
+      "instances": [
+        "m6nut"
+      ],
+      "camera_scale": 0.1426788291931149
+    },
+    {
+      "scene": "part_m3nut",
+      "output": "C:\\gh\\oomlout_oobb_holder_motor_pump_submersible_jt_500\\parts\\oobb_holder_motor_pump_submersible_jt_500\\assembly\\render\\raw\\part_m3nut.png",
+      "objects": [
+        "m3nut"
+      ],
+      "instances": [
+        "m3nut"
+      ],
+      "camera_scale": 0.07852099704742414
+    },
+    {
+      "scene": "part_capscrew",
+      "output": "C:\\gh\\oomlout_oobb_holder_motor_pump_submersible_jt_500\\parts\\oobb_holder_motor_pump_submersible_jt_500\\assembly\\render\\raw\\part_capscrew.png",
+      "objects": [
+        "capscrew"
+      ],
+      "instances": [
+        "capscrew"
+      ],
+      "camera_scale": 0.20370445609092713
+    }
+  ],
+  "cumulative_instances": [
+    "base",
+    "pump",
+    "top",
+    "nut_1",
+    "nut_2",
+    "nut_3",
+    "nut_4",
+    "screw_1",
+    "screw_2",
+    "screw_3",
+    "screw_4",
+    "m6nut_1",
+    "m6nut_2",
+    "m6nut_3",
+    "m6nut_4",
+    "m6nut_5",
+    "m6nut_6",
+    "m3nut_1",
+    "m3nut_2",
+    "lid",
+    "capscrew_1",
+    "capscrew_2"
+  ],
+  "device": "GPU"
+}
